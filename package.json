@@ -1,7 +1,7 @@
 {
   "name": "food_cort",
   "version": "1.0.0",
-  "description": "This is a simple project for restorent food app",
+  "description": "This is a simple project for restorent food app, in which we focus on JWT here we can register a user and login facility provided to user with reset his password .",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

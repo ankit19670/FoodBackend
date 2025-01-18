@@ -22,7 +22,7 @@ app.use('/api/v1/auth', authRoutes)
 app.use('/api/v1/user', userRoutes)
 
 app.get('/', (req, res) => {
-    return res.status(200).send("Hello Ankit How are you!")
+    return res.status(200).send("Food Backend Project!")
 })
 
 app.listen(PORT, () => {
